@@ -1,11 +1,18 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
 # Quizzler Challenge Solution
 
+## Technology Stack: 
+Flutter, Dart.
+
+## Key Features: 
+Quiz Questions, Interactive UI, Multiple Choice Answers, Score
+Tracking, Progress Indicators.
 
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+## Instalation
+Clone the repositiry and run following commands:
+```bash
+  flutter pub get
+  flutter run
+```
